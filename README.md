@@ -42,6 +42,13 @@ Welcome to my GitHub profile! I'm an aspiring Web developer with a passion for b
 
 ![Jainik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jainik-Patel&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainik2253&show_icons=true&locale=en" alt="jainik2253" /></p>
+## 🔥 Streak Stats
+
+![Jainik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jainik-Patel&theme=radical)
+
+## 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/JAINIK2253/Jainik)
+
 
 Feel free to reach out if you have any questions or just want to connect. Thanks for stopping by!
