@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jainik Patel</h1>
+<h1 align="center">Hi 👋, I'm Jainik Patel 
+  
+  Welcome to my GitHub profile! I'm an aspiring Web developer with a passion for building intuitive and efficient web applications. </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainik2253&label=Profile%20views&color=0e75b6&style=flat" alt="jainik2253" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainik2253" alt="jainik2253" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end Devloper**
+- 🌱 I’m currently learning and expanding my skills in **Front-end Devloper**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JAINIK2253](https://github.com/JAINIK2253)
 
-- 💬 Ask me about **I'm constantly learning and expanding my skill in front-end developere**
+- 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express, MySQL, MongoDB and Firebase.
 
 - 📫 How to reach me **jainik387620@gmail.com**
 
-- ⚡ Fun fact **I love to Playing cricket and watching some comedy serial.**
+- ⚡ Fun fact **I love to Playing cricket and solving puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainik2253&show_icons=true&locale=en" alt="jainik2253" /></p>
 
-
+Feel free to reach out if you have any questions or just want to connect. Thanks for stopping by!
