@@ -15,9 +15,6 @@ Welcome to my GitHub profile! I'm an aspiring Web developer with a passion for b
 - ⚡ Fun fact **I love to Playing cricket and solving puzzles.**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainik2253&label=Profile%20views&color=0e75b6&style=flat" alt="jainik2253" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainik2253" alt="jainik2253" /></a> </p>
 
 
 
