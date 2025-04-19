@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jainik Patel 
-  
-  Welcome to my GitHub profile! I'm an aspiring Web developer with a passion for building intuitive and efficient web applications. </h1>
+<h1 align="center">Hi 👋, I'm Jainik Patel </h1>
+
+Welcome to my GitHub profile! I'm an aspiring Web developer with a passion for building intuitive and efficient web applications.
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainik2253&label=Profile%20views&color=0e75b6&style=flat" alt="jainik2253" /> </p>
